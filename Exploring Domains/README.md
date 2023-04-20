@@ -37,12 +37,12 @@ Examples of AI include Siri, Alexa, self-driving cars, and chess-playing compute
 **Categories in ML 🧠**
 
 
-![Categories]()
+![Categories](https://github.com/Hrishikesh332/ML_Guide/blob/main/Exploring%20Domains/src/categories.jpg)
 ---
 
 **Understanding ML Lifecycle 🧠:**
 
-![ML]()
+![ML](https://github.com/Hrishikesh332/ML_Guide/blob/main/Exploring%20Domains/src/ML.png)
 ---
 **Domains in AI 🤖:**
 
