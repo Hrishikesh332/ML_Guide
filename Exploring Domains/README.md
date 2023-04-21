@@ -117,6 +117,31 @@ Examples of AI include Siri, Alexa, self-driving cars, and chess-playing compute
 * Don't ignore feature selection and engineering, as it can significantly impact model performance.
 * Don't forget to handle missing or imbalanced data, as it can cause bias and inaccuracies in your model.
 
+---
+
+**Resources to start with 📙:**
+
+*ML:*
+
+* ![Basics of Data Science](https://www.sololearn.com/learning/1093) - Sololearn
+* ![Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freecodecamp
+* ![Data Analysis with Python](https://www.youtube.com/watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv) (Mathematics Focused) - Youtube (IIT Roorkee)
+* ![Machine Learnign Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) - DataCamp
+OR
+* ![Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+
+*DL:*
+
+* ![Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Youtube (3 Blue 1 Brown)
+* ![Natural Language Processing Community Playlist](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn) - Youtube (Krish Naik)
+
+
+
+
+
+
+
+
 
 
 
