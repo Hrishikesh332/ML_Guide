@@ -119,21 +119,47 @@ Examples of AI include Siri, Alexa, self-driving cars, and chess-playing compute
 
 ---
 
+**Documenting ML Project 📄:**
+
+* **Introduction:** Overview of the Porject and the objective 
+* **Data Exploration and Preprocessing:** It include details on how the data was collected, cleaned, and prepared for analysis. It should also include any data visualization or analysis performed on the data.
+* **Feature Engineering:**  Selecting and transforming relevant features from the data. It should include details on how features were selected, what transformations were applied, and why they were chosen.
+* **Model Selection:** Details on the different models considered, why they were chosen or rejected, and how the final model was selected.
+* **Model Training and Evaluation:** Information on the training process, how the model was tuned, and the evaluation metrics used to measure the model's performance.
+* **Result and Discussion:** Detailed discussion of the findings. It should include details on the model's performance, any insights or patterns identified in the data, and any limitations or caveats of the project.
+* **Conclusion:** Summarize the project's key findings, contributions, and limitations.Also, provide suggestions for future work and areas for improvement.
+* **References:** List of all sources used in the project, including any data sources, research papers, or other relevant documents
+
+
+
+
+
+
+---
+
 **Resources to start with 📙:**
 
 *ML:*
 
-* ![Basics of Data Science](https://www.sololearn.com/learning/1093) - Sololearn
-* ![Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freecodecamp
-* ![Data Analysis with Python](https://www.youtube.com/watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv) (Mathematics Focused) - Youtube (IIT Roorkee)
-* ![Machine Learnign Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) - DataCamp
+* [Basics of Data Science](https://www.sololearn.com/learning/1093) - Sololearn
+* [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freecodecamp
+* [Data Analysis with Python](https://www.youtube.com/watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv) (Mathematics Focused) - Youtube (IIT Roorkee)
+* [Machine Learnign Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) - DataCamp
+
 OR
-* ![Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+
+* [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
 *DL:*
 
-* ![Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Youtube (3 Blue 1 Brown)
-* ![Natural Language Processing Community Playlist](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn) - Youtube (Krish Naik)
+* [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Youtube (3 Blue 1 Brown)
+* [Natural Language Processing Community Playlist](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn) - Youtube (Krish Naik)
+
+---
+
+
+
+
 
 
 
