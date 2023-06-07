@@ -5,6 +5,8 @@
 
 [Recording](https://www.youtube.com/watch?v=mhL8QEWo2j4)
 
+[![Breaking Down ML & Building Classification application](https://img.youtube.com/vi/mhL8QEWo2j4/0.jpg)](https://www.youtube.com/watch?v=mhL8QEWo2j4)
+
 **Agenda for Session**
 
 
