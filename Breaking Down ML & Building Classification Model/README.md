@@ -1,6 +1,9 @@
 
 # Breaking Down ML & Building Classification application
 
+## Recording of Session:
+
+![Recording](https://www.youtube.com/watch?v=mhL8QEWo2j4)
 
 **Agenda for Session**
 
