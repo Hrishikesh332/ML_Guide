@@ -17,6 +17,10 @@ Vector databases are the next generation of databases that are designed to store
 
 Would you like to know more about vector databases or any specific application? 🤔
 
+## How Vector Database Works:
+
+![vector](https://github.com/Hrishikesh332/ML_Guide/blob/main/Vector%20Databases%20for%20Gen%20AI/src/vector.jpg)
+
 ## Application of Gen AI + Vector Database:
 
 Generative AI powered by Vector Databases unlocks limitless creativity by storing and retrieving data as vectors. From generating art and music to personalized assistants and captivating narratives, this dynamic duo revolutionizes how AI creates and inspires. 🌟🚀🎵
@@ -29,9 +33,6 @@ Generative AI powered by Vector Databases unlocks limitless creativity by storin
 
 🎨🔄 Style Trasnfer - By using vector databases, style transfer models can learn and store style vectors. These vectors can then be applied to content vectors to transform images or other media into different artistic styles.
 
-## How Vector Database Works:
-
-![vector](https://github.com/Hrishikesh332/ML_Guide/blob/main/Vector%20Databases%20for%20Gen%20AI/src/vector.jpg)
 
 ## Various Vector Databases:
 
