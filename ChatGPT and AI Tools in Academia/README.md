@@ -7,11 +7,8 @@
   <ol>
     <li><a href="#About">About</a></li>
     <li><a href="#Agenda-of-the-Session">Features</a></li>
-    <li><a href="#Tech-Stack">Tech Stack</a></li>
-    <li><a href="#Languages-and-Tools">Languages and Tools</a></li>
-    <li><a href="#Workflow">Workflow</a></li>
-    <li><a href="#Instructions-on-running-project-locally">Instructions on running project locally</a></li>
-    <li><a href="#Contributing">Contributing</a></li>
+    <li><a href="#Prompt-Tuning">Tech Stack</a></li>
+    <li><a href="#AI-Tools">Workflow</a></li>
     <li><a href="#Guide">Guide</a></li>
     <li><a href="#License">License</a></li>
 
@@ -80,6 +77,24 @@ The total of 10 MCQs are needed on the given sub topics, The difficulty level of
 
 ## Tools Used 
 
+👩🏻‍🏫 Classpoint - 
+
+- For the Interactive and Fun real time Quiz with the student.
+- Live preparation of the Quiz with the Pre-made PPT
+- Live Poll
+
+- To Download Go To - [https://www.classpoint.io/classpoint-ai](https://www.classpoint.io/classpoint-ai)
+
+
+
+🌌 Perplexity
+
+- To get the realtime information in a concise way with the proper references.
+- Turn on the Copilot, To upload the file and work on the own data.
+- It can be helpful for the content curation on the recent topics.
+- Also, Uploading the subject module and designing the analytical and reasoning question capabilities can be explored.
+
+- To Downloa - [https://www.classpoint.io/classpoint-ai](https://www.classpoint.io/classpoint-ai)
 
 ## Guide
 
