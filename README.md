@@ -49,7 +49,7 @@ key features of ML Guide is its community-driven approach. Contributors are enco
 
 👨‍💻Provides a variety of projects and code samples that students may utilise to practise their abilities and obtain real-world experience.
 
-🤝 Open-source, meaning that anyone can contribute, use, or modify the content in the repository.
+🤝 Open-source, meaning that anyone can contribute, and use.
 
 
  
